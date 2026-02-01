@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/common/widgets/texts/brand_title.dart';
-import 'package:shopping_store/utils/constants/enums.dart';
+import 'package:jiltone_store/common/widgets/texts/brand_title.dart';
+import 'package:jiltone_store/utils/constants/enums.dart';
 
 import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/sizes.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_store/utils/constants/enums.dart';
+import 'package:jiltone_store/utils/constants/enums.dart';
 
 
 class HkBrandTitleText extends StatelessWidget {

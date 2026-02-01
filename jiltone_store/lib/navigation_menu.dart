@@ -4,11 +4,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/features/personalization/screens/settings/settings.dart';
-import 'package:shopping_store/features/shop/screens/store/store.dart';
-import 'package:shopping_store/features/shop/screens/wishlist/wishlist.dart';
-import 'package:shopping_store/utils/constants/colors.dart';
-import 'package:shopping_store/utils/helpers/helper_functions.dart';
+import 'package:jiltone_store/features/personalization/screens/settings/settings.dart';
+import 'package:jiltone_store/features/shop/screens/store/store.dart';
+import 'package:jiltone_store/features/shop/screens/wishlist/wishlist.dart';
+import 'package:jiltone_store/utils/constants/colors.dart';
+import 'package:jiltone_store/utils/helpers/helper_functions.dart';
 
 import 'features/shop/screens/home/home.dart';
 

@@ -1,14 +1,14 @@
 
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/common/widgets/custom_shapes/containers/rounded_container.dart';
-import 'package:shopping_store/common/widgets/images/rounded_image.dart';
-import 'package:shopping_store/common/widgets/products/favourite_icon/favourite_icon.dart';
-import 'package:shopping_store/common/widgets/products/product_price_text.dart';
-import 'package:shopping_store/common/widgets/texts/brand_title_text_with_verify_icon.dart';
-import 'package:shopping_store/common/widgets/texts/product_title.dart';
-import 'package:shopping_store/utils/constants/image_strings.dart';
-import 'package:shopping_store/utils/helpers/helper_functions.dart';
+import 'package:jiltone_store/common/widgets/custom_shapes/containers/rounded_container.dart';
+import 'package:jiltone_store/common/widgets/images/rounded_image.dart';
+import 'package:jiltone_store/common/widgets/products/favourite_icon/favourite_icon.dart';
+import 'package:jiltone_store/common/widgets/products/product_price_text.dart';
+import 'package:jiltone_store/common/widgets/texts/brand_title_text_with_verify_icon.dart';
+import 'package:jiltone_store/common/widgets/texts/product_title.dart';
+import 'package:jiltone_store/utils/constants/image_strings.dart';
+import 'package:jiltone_store/utils/helpers/helper_functions.dart';
 
 import '../../../../features/shop/controllers/product/product_controller.dart';
 import '../../../../features/shop/models/product_model.dart';

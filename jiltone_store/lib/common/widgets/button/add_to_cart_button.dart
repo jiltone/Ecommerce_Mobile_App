@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/features/shop/controllers/product/cart_controller.dart';
-import 'package:shopping_store/features/shop/models/product_model.dart';
-import 'package:shopping_store/features/shop/screens/product_details/product_details.dart';
+import 'package:jiltone_store/features/shop/controllers/product/cart_controller.dart';
+import 'package:jiltone_store/features/shop/models/product_model.dart';
+import 'package:jiltone_store/features/shop/screens/product_details/product_details.dart';
 
 import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/enums.dart';

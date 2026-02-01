@@ -2,8 +2,8 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:shopping_store/common/widgets/layouts/grid_layout.dart';
-import 'package:shopping_store/common/widgets/shimmer/shimmer_effect.dart';
+import 'package:jiltone_store/common/widgets/layouts/grid_layout.dart';
+import 'package:jiltone_store/common/widgets/shimmer/shimmer_effect.dart';
 
 class HkBrandsShimmer extends StatelessWidget {
   const HkBrandsShimmer({super.key,this.itemCount = 4});

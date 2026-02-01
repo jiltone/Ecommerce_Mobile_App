@@ -3,7 +3,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:shopping_store/utils/helpers/helper_functions.dart';
+import 'package:jiltone_store/utils/helpers/helper_functions.dart';
 
 import '../../../utils/constants/colors.dart';
 

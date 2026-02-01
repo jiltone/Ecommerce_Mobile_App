@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/features/shop/controllers/product/all_products_controller.dart';
-import 'package:shopping_store/features/shop/models/product_model.dart';
+import 'package:jiltone_store/features/shop/controllers/product/all_products_controller.dart';
+import 'package:jiltone_store/features/shop/models/product_model.dart';
 
 import '../../../../utils/constants/sizes.dart';
 import '../../layouts/grid_layout.dart';

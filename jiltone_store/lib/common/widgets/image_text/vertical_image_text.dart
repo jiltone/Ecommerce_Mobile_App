@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:shopping_store/common/widgets/images/circular_image.dart';
+import 'package:jiltone_store/common/widgets/images/circular_image.dart';
 
 import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/sizes.dart';

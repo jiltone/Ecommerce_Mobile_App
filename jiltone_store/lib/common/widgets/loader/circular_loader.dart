@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:shopping_store/utils/constants/sizes.dart';
+import 'package:jiltone_store/utils/constants/sizes.dart';
 
 import '../../../utils/constants/colors.dart';
 

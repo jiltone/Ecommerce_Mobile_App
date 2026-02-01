@@ -2,7 +2,7 @@
 
 
 import 'package:flutter/cupertino.dart';
-import 'package:shopping_store/utils/constants/colors.dart';
+import 'package:jiltone_store/utils/constants/colors.dart';
 
 class HkShadowStyle{
 

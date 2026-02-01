@@ -3,9 +3,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:shopping_store/common/widgets/shimmer/shimmer_effect.dart';
-import 'package:shopping_store/features/shop/models/brand_model.dart';
-import 'package:shopping_store/features/shop/screens/brand/brand_products.dart';
+import 'package:jiltone_store/common/widgets/shimmer/shimmer_effect.dart';
+import 'package:jiltone_store/features/shop/models/brand_model.dart';
+import 'package:jiltone_store/features/shop/screens/brand/brand_products.dart';
 
 import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/sizes.dart';

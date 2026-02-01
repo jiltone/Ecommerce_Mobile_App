@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:shopping_store/features/shop/models/cart_item_model.dart';
+import 'package:jiltone_store/features/shop/models/cart_item_model.dart';
 
 import '../../../../utils/constants/colors.dart';
 import '../../../../utils/constants/image_strings.dart';

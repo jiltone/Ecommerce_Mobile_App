@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:lottie/lottie.dart';
-import 'package:shopping_store/utils/constants/colors.dart';
-import 'package:shopping_store/utils/constants/sizes.dart';
+import 'package:jiltone_store/utils/constants/colors.dart';
+import 'package:jiltone_store/utils/constants/sizes.dart';
 
 class HkAnimationLoader extends StatelessWidget {
   final String text;

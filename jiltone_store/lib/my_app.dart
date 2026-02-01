@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:shopping_store/bindings/general_bindings.dart';
-import 'package:shopping_store/routes/app_routes.dart';
-import 'package:shopping_store/utils/constants/colors.dart';
-import 'package:shopping_store/utils/theme/theme.dart';
+import 'package:jiltone_store/bindings/general_bindings.dart';
+import 'package:jiltone_store/routes/app_routes.dart';
+import 'package:jiltone_store/utils/constants/colors.dart';
+import 'package:jiltone_store/utils/theme/theme.dart';
 
 
 class MyApp extends StatelessWidget {

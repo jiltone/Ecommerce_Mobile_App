@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_store/features/shop/controllers/product/cart_controller.dart';
-import 'package:shopping_store/features/shop/screens/cart/cart.dart';
-import 'package:shopping_store/utils/helpers/helper_functions.dart';
+import 'package:jiltone_store/features/shop/controllers/product/cart_controller.dart';
+import 'package:jiltone_store/features/shop/screens/cart/cart.dart';
+import 'package:jiltone_store/utils/helpers/helper_functions.dart';
 
 import '../../../../utils/constants/colors.dart';
 
